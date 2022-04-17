@@ -6,7 +6,7 @@ package com.mycompany.hitungvolume;
 
 /**
  *
- * @author Alif Maheaven
+ * @author Dita Darma 
  */
 public class Form extends javax.swing.JFrame {
     double jari, tinggi, hasil, pi;
